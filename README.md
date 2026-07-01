@@ -34,7 +34,7 @@ This project helps practice:
 
 ---
 
-## 📝 Code Explanation
+##  Code Explanation
 
 The program begins by defining variables that store personal information.  
 It then prints these values and performs a simple calculation to show the user's age next year.  
