@@ -5,6 +5,8 @@ A simple Python program that stores personal information and uses basic variable
 This repository contains a simple Python program that stores and displays basic personal information.  
 It is designed as a beginner practice project to learn variables, printing, simple math, and conditional statements in Python.
 
+##  Program Screenshot
+
 This screenshot shows the program running in the terminal with sample output.
 <img width="889" height="470" alt="image" src="https://github.com/user-attachments/assets/9a56b509-dcce-448d-83e2-673ff440a476" />
 
