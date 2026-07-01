@@ -7,7 +7,7 @@ It is designed as a beginner practice project to learn variables, printing, simp
 
 ---
 
-## 📌 What the Program Does
+##  What the Program Does
 
 The script:
 
@@ -21,7 +21,7 @@ The script:
 
 ---
 
-## 🧠 Concepts Learned
+##  Concepts Learned
 
 This project helps practice:
 
@@ -42,14 +42,14 @@ Finally, it checks the user's age and prints a message describing their age grou
 
 ---
 
-## 📂 File Included
+##  File Included
 
 - **Personal_information.py**  
   The main Python script containing the program.
 
 ---
 
-## 🚀 How to Run the Program
+##  How to Run the Program
 
 1. Install Python (if not already installed).  
 2. Download or clone this repository.  
